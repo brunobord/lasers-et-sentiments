@@ -13,8 +13,8 @@ Chose"*, vous laissant livrés à vous-même tandis qu'il récupère à l'infirm
 
 ## Personnages joueurs
 
-1. Choisissez un *style* pour votre personnage : **Alien**, **Android**,
-   **Dangereux**, **Brillant**, **Intrépide**, **Malin** ou **Sexy**.
+1. Choisissez un *style* pour votre personnage : **Alien**, **Androïde**,
+   **Dangereux**, **Prétentieux**, **Intrépide**, **Malin** ou **Sexy**.
 2. Choisissez un *rôle* pour votre personnage : **Docteur**, **Diplomate**,
    **Ingénieur**, **Explorateur**, **Pilote**, **Scientifique** ou **Soldat**.
 3. Choisissez votre **chiffre**, de 2 à 5. Un chiffre élevé indique que vous
