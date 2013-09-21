@@ -97,15 +97,15 @@ Lancez les dés ou choisissez dans le tableau ci-dessous
 | 1. Zorgon le conquérant            | 4. Les pirates de l'espace             | 
 | 2. L'armée de la Ruche             | 5. Des cyber-zombies                   |
 | 3. Un capitaine renégat            | 6. Des vers cérébraux aliens           |
-| **Veut...**                        |
+| **Veut...**                        |                                        |
 | 1. Détruire / corrompre            | 4. Protéger / prendre le contrôle      |
 | 2. Voler / capturer                | 5. Construire / Synthétiser            |
 | 3. Se lier avec                    | 6. Pacifier / Occuper                  |
-| **La/Le...**                       |
+| **La/Le...**                       |                                        |
 | 1. Roi / Reine pirate              | 4. Tunnel quantique                    |
 | 2. Crystal du néant                | 5. Une vieille ruine spatiale          |
 | 3. Destroyer stellaire             | 6. Arteface alien                      |
-| **Qui va...**                      |
+| **Qui va...**                      |                                        |
 | 1. Détruire un système solaire     | 4. Déclencher une guerre / invasion    |
 | 2. Inverser la course du temps     | 5. Ouvrir une brèche dans la réalité   |
 | 3. Mettre une planète en esclavage | 6. Tout réparer                        |
