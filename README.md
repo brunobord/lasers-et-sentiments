@@ -92,7 +92,7 @@ faites un jet. Si vous réussissez, vous donnez **+1d**.
 
 Lancez les dés ou choisissez dans le tableau ci-dessous
 
-| **Une menace...**                                                           |
+| **Une menace...**                  |                                        |
 | ---------------------------------- | -------------------------------------- |
 | 1. Zorgon le conquérant            | 4. Les pirates de l'espace             | 
 | 2. L'armée de la Ruche             | 5. Des cyber-zombies                   |
