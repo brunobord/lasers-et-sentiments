@@ -63,21 +63,31 @@ votre chiffre.
 Si vous utilisez les **SENTIMENTS** (relationnel, passion), vous devez lancer
 **au-dessus** de votre chiffre.
 
-<big>0</big> **Si aucun de vos dés n'est un succès**, ça tourne mal. Le MdJ vous dit comment les
-choses empirent.
+### 0
 
-<big>1</big> **Si un dé est un succès**, vous y arrivez tout juste. Le MdJ vous inflige une
+**Si aucun de vos dés n'est un succès**, ça tourne mal. Le MdJ vous dit comment
+les choses empirent.
+
+### 1
+
+**Si un dé est un succès**, vous y arrivez tout juste. Le MdJ vous inflige une
 complication, un dommage, un coût.
 
-<big>2</big> **Si deux dés sont un succès**, vous y réussissez. Bien joué !
+### 2
 
-<big>3</big> **Si trois dés sont un succès**, c'est un succès critique ! le MdJ vous explique
+**Si deux dés sont un succès**, vous y réussissez. Bien joué !
+
+### 3
+
+**Si trois dés sont un succès**, c'est un succès critique ! le MdJ vous explique
 ce qui s'ajoute à votre réussite.
 
-<big>**!**</big> **Si l'un de vos dés est égal à votre chiffre**, vous avez le
-**Sentiment Laser**. Vous avez une acuité extraordinaire sur la situation. Vous
-pouvez poser une question au MdJ et il devra y répondre honnêtement. Voilà
-quelques bonnes questions :
+### !
+
+**Si l'un de vos dés est égal à votre chiffre**, vous avez le **Sentiment
+Laser**. Vous avez une acuité extraordinaire sur la situation. Vous pouvez poser
+une question au MdJ et il devra y répondre honnêtement. Voilà quelques bonnes
+questions :
 
 > Que ressentent-ils ? Qui est derrière cela ? Comment puis-je les forcer à \_\_\_\_\_\_\_ ?
 > À quoi dois-je faire attention ? Quel est le meilleur moyen pour \_\_\_\_\_\_\_ ?
@@ -85,8 +95,10 @@ quelques bonnes questions :
 
 Vous pouvez alors choisir de changer votre action, et relancer les dés.
 
-**Aider** : Si vous voulez aider quelqu'un, dites comment vous le faites et
-faites un jet. Si vous réussissez, vous donnez **+1d**.
+### Aider
+
+Si vous voulez aider quelqu'un, dites comment vous le faites et faites un jet.
+Si vous réussissez, vous donnez **+1d**.
 
 ## MdJ : une aventure de l'espace
 
