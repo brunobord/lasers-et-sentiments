@@ -116,7 +116,7 @@ Lancez les dés ou choisissez dans le tableau ci-dessous
 | **La/Le...**                       |                                        |
 | 1. Roi / Reine pirate              | 4. Tunnel quantique                    |
 | 2. Crystal du néant                | 5. Une vieille ruine spatiale          |
-| 3. Destroyer stellaire             | 6. Arteface alien                      |
+| 3. Destroyer stellaire             | 6. Artefact alien                      |
 | **Qui va...**                      |                                        |
 | 1. Détruire un système solaire     | 4. Déclencher une guerre / invasion    |
 | 2. Inverser la course du temps     | 5. Ouvrir une brèche dans la réalité   |
