@@ -44,11 +44,12 @@ if __name__ == '__main__':
     nb = 1
     if len(sys.argv) > 1:
         nb = int(sys.argv[1])
-    for _ in range(nb):
+    for i in range(nb, 0, -1):
         print "A threat...\n%s wants to %s the %s which will %s" % (
             blue(random.choice(threat_list)),
             blue(random.choice(wants_to_list)),
             blue(random.choice(the_list)),
             blue(random.choice(which_will_list))
             )
-        print 20 * "-"
+        if i > 1:
+            print 80 * "-"
