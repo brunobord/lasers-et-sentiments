@@ -131,7 +131,7 @@ demandez aux joueurs :
 
 > "Zorgon met son méga-canon en charge sur son vaisseau. Que faites-vous ?"
 
- ou 
+ ou
 
 > "Daneela vous tend un verre de whisky Acturien et glisse ses bras autour de
 > "vos hanches. Que faites-vous ?"
