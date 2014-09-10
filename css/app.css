@@ -1,0 +1,50 @@
+@import url(http://fonts.googleapis.com/css?family=Iceland|Exo+2:300,300italic,600,600italic);
+.container-fluid {
+    font-family: 'Exo 2', sans-serif !important;
+    font-size: 14px !important;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Iceland', cursive;
+}
+h2, h3, h4, h5, h6 {
+    text-transform: uppercase;
+}
+.row {
+    max-width: 95%;
+}
+
+q {
+    font-style: italic;
+}
+#threats td, #threats th {
+}
+/* last col, colophon */
+body #colophon {
+    font-size: 9px !important;
+}
+blockquote {
+    font-style: italic;
+}
+
+/* colors */
+.light-blue {
+    color: #00aeef;
+}
+.dark-blue {
+    color: #007dad;
+}
+.light-blue-bg {
+    background-color: #00aeef;
+    color: #fff;
+    text-transform: uppercase;
+}
+.dark-blue-bg {
+    background-color: #007dad;
+    color: #fff;
+    text-transform: uppercase;
+}
+.dark-bg {
+    background-color: #000;
+    color: #fff;
+    text-transform: uppercase;
+}

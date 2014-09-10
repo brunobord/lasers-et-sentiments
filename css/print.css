@@ -1,0 +1,13 @@
+/* print */
+body, blockquote p, li {
+    font-size: 10px !important;
+    line-height: 1em !important;
+}
+h1, h2, h3, h4, h5, h6 {
+    line-height: 1em !important;
+}
+blockquote {
+    border: none !important;
+    font-size: 10px !important;
+    margin-top: .4em;
+}
