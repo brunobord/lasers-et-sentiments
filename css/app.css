@@ -9,6 +9,9 @@ h1, h2, h3, h4, h5, h6 {
 h2, h3, h4, h5, h6 {
     text-transform: uppercase;
 }
+.small-caps {
+    font-variant: small-caps;
+}
 .row {
     max-width: 95%;
 }
@@ -27,7 +30,18 @@ blockquote {
 #logo img {
     height: 180px !important;
 }
-
+.arr-down, .arr-up {
+    float: left;
+    height: 2em;
+    margin-right: .5em;
+}
+#diceroll td.nb {
+    vertical-align: top;
+    width: 20px;
+    font-size: 1.7em;
+    color: #bcbec0;
+    font-weight: bold;
+}
 /* colors */
 .light-blue {
     color: #00aeef;
