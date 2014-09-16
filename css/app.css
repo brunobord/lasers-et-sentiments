@@ -19,15 +19,18 @@ q {
     font-style: italic;
 }
 #threats td, #threats th {
-}
-/* last col, colophon */
-body #colophon {
-    font-size: 9px !important;
+    vertical-align: top;
 }
 blockquote {
     font-style: italic;
 }
 #logo img {
+    height: 180px !important;
+}
+#ship-img {
+    text-align: center;
+}
+#ship-img img {
     height: 180px !important;
 }
 .arr-down, .arr-up {
@@ -49,18 +52,21 @@ blockquote {
 .dark-blue {
     color: #007dad;
 }
+.upper {
+    text-transform: uppercase;
+}
 .light-blue-bg {
     background-color: #00aeef;
-    color: #fff;
-    text-transform: uppercase;
+    color: #000;
 }
 .dark-blue-bg {
     background-color: #007dad;
     color: #fff;
-    text-transform: uppercase;
 }
 .dark-bg {
     background-color: #000;
     color: #fff;
-    text-transform: uppercase;
+}
+.grey-bg {
+    background-color: #d1d3d4;
 }

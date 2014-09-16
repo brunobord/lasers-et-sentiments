@@ -9,8 +9,15 @@ body, blockquote p, li {
 h1, h2, h3, h4, h5, h6 {
     line-height: 1em !important;
 }
-blockquote {
+blockquote, blockquote p {
     border: none !important;
     font-size: 9px !important;
-    margin-top: .4em;
+    margin-top: .5em;
+}
+/* threat and colophon */
+body .right-block {
+    font-size: 10px !important;
+}
+body #colophon {
+    font-size: 7px !important;
 }
